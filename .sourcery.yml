@@ -1,0 +1,7 @@
+sources:
+  - SourceryTest/Models/
+templates:
+  - SourceryTest/SourceryGenerated/Templates/AutoCodable.swifttemplate
+  - SourceryTest/SourceryGenerated/Templates/AutoEquatable.stencil
+output:
+  SourceryTest/SourceryGenerated
